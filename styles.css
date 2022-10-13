@@ -1,0 +1,32 @@
+body {
+  background-color: DFF6FF;
+}
+
+.title {
+  font-size: 4rem;
+  color: 06283D;
+  margin-top: 2rem;
+}
+
+.calc {
+    width: 17rem;
+    height: 3rem;
+    border: none;
+} 
+
+/* the result display */
+.result {
+    width: 17rem;
+    height: 3rem;
+    margin: auto auto 2rem;
+}
+
+/* to make the buttons have the same size */
+.btn {
+    width: 4rem;
+    margin-bottom: 0.2rem;
+} 
+
+.calculator {
+    text-align: center;
+}
